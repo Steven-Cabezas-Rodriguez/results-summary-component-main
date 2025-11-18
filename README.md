@@ -100,4 +100,4 @@ Thanks!!
 
 Testing editing to practice fork functionality
 Cheking the comments to PRs
-creanting comments to issues
+creanting comments to issues.
